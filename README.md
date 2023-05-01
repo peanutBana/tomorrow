@@ -79,13 +79,13 @@
 
 ## ERD<br />
 
-<img src="/src/main/resources/static/images/erd.JPG">
+<img src="https://github.com/eunbiro/tomorrow/raw/main/src/main/resources/static/images/erd.JPG">
 
 <br /><br />
 
 ## 화면설계<br />
 
-<img src="/src/main/resources/static/images/figma-login.JPG" width="33%" height="33%">&nbsp;&nbsp;<img src="/src/main/resources/static/images/figma-main.JPG" width="32%" height="32%">&nbsp;&nbsp;<img src="/src/main/resources/static/images/figma-paylist.JPG" width="31%" height="31%">
+<img src="https://github.com/eunbiro/tomorrow/raw/main/src/main/resources/static/images/figma-login.JPG" width="33%" height="33%">&nbsp;&nbsp;<img src="https://github.com/eunbiro/tomorrow/raw/main/src/main/resources/static/images/figma-main.JPG" width="32%" height="32%">&nbsp;&nbsp;<img src="https://github.com/eunbiro/tomorrow/raw/main/src/main/resources/static/images/figma-paylist.JPG" width="31%" height="31%">
 
 <br /><br />
 
