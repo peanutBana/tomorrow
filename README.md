@@ -73,7 +73,7 @@
 
 ## 작업분할구도 & 기간<br />
 
-<img src="/src/main/resources/static/images/gant-chart.JPG">
+<img src="https://github.com/eunbiro/tomorrow/raw/main/src/main/resources/static/images/gant-chart.JPG">
 
 <br /><br />
 
